@@ -1,2 +1,2 @@
 # AWS_file
-Here available some working project of AWS.
+Currently working on project of AWS.
